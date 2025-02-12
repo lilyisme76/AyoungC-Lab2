@@ -22,8 +22,7 @@ if (this.y <= 0 || this.y + this.h >= height) {
 }
 
         }
-    }
-};
+    };
 
 var blueBrick = {
     x: 40,
